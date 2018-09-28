@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']        = 'Your order has been placed!';
+$_['heading_title']        = 'Votre commande a été créée';
 
 // Text
-$_['text_basket']          = 'Shopping Cart';
-$_['text_checkout']        = 'Checkout';
-$_['text_success']         = 'Success';
-$_['text_customer']        = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']           = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
+$_['text_basket']          = 'Panier';
+$_['text_checkout']        = 'Commander';
+$_['text_success']         = 'Succès';
+$_['text_customer']        = '<p>Votre commande a été enregistrée.</p><p>Vous pouvez consulter votre historique de commande sur <a href="%s">votre compte</a> en cliquant <a href="%s">votre historique de commande</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Veuillez adresser toute question sur cette commande <a href="%s">au gérant</a>.</p><p>Merci pour votre commande !</p>';
+$_['text_guest']           = '<p>Votre commande a été enregistrée.</p><p>Veuillez adresser toute question sur cette commande <a href="%s">au gérant</a>.</p><p>Merci pour votre commande !</p>';

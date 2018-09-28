@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']                = 'Account Login';
+$_['heading_title']                = 'Se connecter';
 
 // Text
-$_['text_account']                 = 'Account';
+$_['text_account']                 = 'Compte';
 $_['text_login']                   = 'Login';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
-$_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
-$_['text_forgotten']               = 'Forgotten Password';
+$_['text_new_customer']            = 'Nouveau client';
+$_['text_register']                = 'Enregistrer le compte';
+$_['text_register_account']        = 'En créant un compte vous facilitez votre shopping, et consulter l\'historique du traitement de vos commandes'; 
+$_['text_returning_customer']      = 'Client enregistré';
+$_['text_i_am_returning_customer'] = 'J\'ai déjà un compte';
+$_['text_forgotten']               = 'Mot de passe oublié';
 
 // Entry
-$_['entry_email']                  = 'E-Mail Address';
-$_['entry_password']               = 'Password';
+$_['entry_email']                  = 'Adresse e-mail';
+$_['entry_password']               = 'Mot de passe';
 
 // Error
-$_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']               = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']               = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                  = 'Warning: Aucune correspondance pour cet e-mail / mot de passe.';
+$_['error_attempts']               = 'Warning: Vous avez dépassé le nombre de tentatives de connexions à votre compte. Veuillez essayer à nouveau dans 1 heure.';
+$_['error_approved']               = 'Warning: Votre compte doit être approuvé, avant de pouvoir être utilisé.';

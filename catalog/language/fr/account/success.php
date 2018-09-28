@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Your Account Has Been Created!';
+$_['heading_title'] = 'Votre compte a été créé.';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You can now take advantage of member privileges to enhance your online shopping experience with us.</p> <p>If you have ANY questions about the operation of this online shop, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this online shop, please <a href="%s">contact the store owner</a>.</p>';
-$_['text_account']  = 'Account';
-$_['text_success']  = 'Success';
+$_['text_message']  = '<p>Bienvenue! Votre compte a été créé.</p> <p>Vous bénéficiez maintenant des privilèges des clients inscrits sur notre boutique.</p> <p>Si vous avez la moindre question sur le fonctionnement de cette boutique en ligne, veuillez contacter le gérant.</p> <p>Un e-mail de confirmation vous a été envoyé à l\'adresse e-mail que vous avez utilisée. Si vous ne l\'avez pas reçu dans un délai d\'une heure, veuillez <a href="%s">nous contacter</a>.</p>';
+$_['text_approval'] = '<p>Merci pour votre enregistrementavec %s!</p><p>Vous recevrez une notification par e-mail lorsuqe votre compte sera activé par le gérant du site.</p><p>Si vous avez la moindre question sur le fonctionnement de cette boutique en ligne, veuillez contacter le gérant <a href="%s">contacter le gérant</a>.</p>';
+$_['text_account']  = 'Compte';
+$_['text_success']  = 'Succès';

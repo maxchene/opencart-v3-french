@@ -1,50 +1,50 @@
 <?php
 // Text
-$_['text_search']              = 'Search';
-$_['text_brand']               = 'Brand';
-$_['text_manufacturer']        = 'Brand:';
-$_['text_model']               = 'Product Code:';
-$_['text_reward']              = 'Reward Points:';
-$_['text_points']              = 'Price in reward points:';
-$_['text_stock']               = 'Availability:';
-$_['text_instock']             = 'In Stock';
-$_['text_tax']                 = 'Ex Tax:';
-$_['text_discount']            = ' or more ';
-$_['text_option']              = 'Available Options';
-$_['text_minimum']             = 'This product has a minimum quantity of %s';
-$_['text_reviews']             = '%s reviews';
-$_['text_write']               = 'Write a review';
-$_['text_login']               = 'Please <a href="%s">login</a> or <a href="%s">register</a> to review';
-$_['text_no_reviews']          = 'There are no reviews for this product.';
-$_['text_note']                = '<span class="text-danger">Note:</span> HTML is not translated!';
-$_['text_success']             = 'Thank you for your review. It has been submitted to the webmaster for approval.';
-$_['text_related']             = 'Related Products';
+$_['text_search']              = 'Rechercher';
+$_['text_brand']               = 'Marque';
+$_['text_manufacturer']        = 'Marque:';
+$_['text_model']               = 'Référence:';
+$_['text_reward']              = 'points de fidélité:';
+$_['text_points']              = 'Prix en points de fidélité:';
+$_['text_stock']               = 'Disponibilité:';
+$_['text_instock']             = 'En stock';
+$_['text_tax']                 = 'HT:';
+$_['text_discount']            = ' ou plus ';
+$_['text_option']              = 'options disponibles';
+$_['text_minimum']             = 'Quantité minimale d\'achat %s';
+$_['text_reviews']             = '%s Avis';
+$_['text_write']               = 'Donner un avis';
+$_['text_login']               = 'Veuillez  <a href="%s">vous connecter</a> ou <a href="%s">vous enregistrer</a> pour donner votre avis.';
+$_['text_no_reviews']          = 'Il n\y a pas d\'avis pour ce produit.';
+$_['text_note']                = '<span class="text-danger">Note:</span> Les caractères HTML ne sont pas admis.';
+$_['text_success']             = 'Merci pour votre avis. Il sera approuvé par le webmaster.';
+$_['text_related']             = 'Produits liés';
 $_['text_tags']                = 'Tags:';
-$_['text_error']               = 'Product not found!';
-$_['text_payment_recurring']   = 'Payment Profile';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
-$_['text_day']                 = 'day';
-$_['text_week']                = 'week';
-$_['text_semi_month']          = 'half-month';
-$_['text_month']               = 'month';
-$_['text_year']                = 'year';
+$_['text_error']               = 'Produit non trouve.';
+$_['text_payment_recurring']   = 'Profil de paiement';
+$_['text_trial_description']   = '%s chaque %d %s(s) pour %d paiement(s) ensuite';
+$_['text_payment_description'] = '%s chaque %d %s(s) pour %d paiement(s)';
+$_['text_payment_cancel']      = '%s chaque %d %s(s) jusqu\'à annulation';
+$_['text_day']                 = 'jour';
+$_['text_week']                = 'semaine';
+$_['text_semi_month']          = 'quinzaine';
+$_['text_month']               = 'mois';
+$_['text_year']                = 'année';
 
 // Entry
-$_['entry_qty']                = 'Qty';
-$_['entry_name']               = 'Your Name';
-$_['entry_review']             = 'Your Review';
-$_['entry_rating']             = 'Rating';
-$_['entry_good']               = 'Good';
-$_['entry_bad']                = 'Bad';
+$_['entry_qty']                = 'Qté';
+$_['entry_name']               = 'Votre nom';
+$_['entry_review']             = 'Votre avis';
+$_['entry_rating']             = 'Avis';
+$_['entry_good']               = 'Bon';
+$_['entry_bad']                = 'Mauvais';
 
 // Tabs
 $_['tab_description']          = 'Description';
-$_['tab_attribute']            = 'Specification';
-$_['tab_review']               = 'Reviews (%s)';
+$_['tab_attribute']            = 'Spécification';
+$_['tab_review']               = 'Avis (%s)';
 
 // Error
-$_['error_name']               = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']               = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']             = 'Warning: Please select a review rating!';
+$_['error_name']               = 'Warning: Nom de l\'avis doit comprendre entre 3 and 25 caractères.';
+$_['error_text']               = 'Warning: Texte de l\'avis doit comprendre entre 25 and 1000 caractères.';
+$_['error_rating']             = 'Warning: Choisissez votre niveau pour l\'avis. ';
