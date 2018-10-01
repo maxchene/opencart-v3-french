@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']     = 'Product Comparison';
+$_['heading_title']     = 'Comparaison de poduits';
 
 // Text
-$_['text_product']      = 'Product Details';
-$_['text_name']         = 'Product';
+$_['text_product']      = 'Détails produits';
+$_['text_name']         = 'Produit';
 $_['text_image']        = 'Image';
-$_['text_price']        = 'Price';
-$_['text_model']        = 'Model';
-$_['text_manufacturer'] = 'Brand';
-$_['text_availability'] = 'Availability';
-$_['text_instock']      = 'In Stock';
-$_['text_rating']       = 'Rating';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_summary']      = 'Summary';
-$_['text_weight']       = 'Weight';
-$_['text_dimension']    = 'Dimensions (L x W x H)';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_success']      = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">product comparison</a>!';
-$_['text_remove']       = 'Success: You have modified your product comparison!';
-$_['text_empty']        = 'You have not chosen any products to compare.';
+$_['text_price']        = 'Prix';
+$_['text_model']        = 'Référence';
+$_['text_manufacturer'] = 'Marque';
+$_['text_availability'] = 'Disponibilité';
+$_['text_instock']      = 'En stock';
+$_['text_rating']       = 'Avis';
+$_['text_reviews']      = 'Basé sur %s avis.';
+$_['text_summary']      = 'Résumé';
+$_['text_weight']       = 'Poids';
+$_['text_dimension']    = 'Dimensions (L x l x H)';
+$_['text_compare']      = 'Produuit semblable (%s)';
+$_['text_success']      = 'Vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">Comparateur</a>.';
+$_['text_remove']       = 'Vous avez modifié votre comparateur.';
+$_['text_empty']        = 'Aucun produit à comparer.';

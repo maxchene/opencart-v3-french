@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']      = 'Address Book';
+$_['heading_title']      = 'Carnet d\'adresse';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_address_book']  = 'Address Book Entries';
-$_['text_address_add']   = 'Add Address';
-$_['text_address_edit']  = 'Edit Address';
-$_['text_add']           = 'Your address has been successfully added';
-$_['text_edit']          = 'Your address has been successfully updated';
-$_['text_delete']        = 'Your address has been successfully deleted';
-$_['text_empty']         = 'You have no addresses in your account.';
+$_['text_account']       = 'Compte';
+$_['text_address_book']  = 'Entrées du carnet d\'adresses';
+$_['text_address_add']   = 'Ajouter une adresse';
+$_['text_address_edit']  = 'Editer une adresse';
+$_['text_add']           = 'Votre adresse a été ajoutée';
+$_['text_edit']          = 'Votre adresse a été modifiée';
+$_['text_delete']        = 'Votre adresse a été supprimée';
+$_['text_empty']         = 'Vous n\'avez aucune adresse associée à votre compte.';
 
 // Entry
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
-$_['entry_company']      = 'Company';
-$_['entry_address_1']    = 'Address 1';
-$_['entry_address_2']    = 'Address 2';
-$_['entry_postcode']     = 'Post Code';
-$_['entry_city']         = 'City';
-$_['entry_country']      = 'Country';
-$_['entry_zone']         = 'Region / State';
-$_['entry_default']      = 'Default Address';
+$_['entry_firstname']    = 'Prénom';
+$_['entry_lastname']     = 'Nom';
+$_['entry_company']      = 'Société';
+$_['entry_address_1']    = 'Adresse ligne 1';
+$_['entry_address_2']    = 'Adresse ligne 2';
+$_['entry_postcode']     = 'Code postal';
+$_['entry_city']         = 'Ville';
+$_['entry_country']      = 'Pays';
+$_['entry_zone']         = 'Région / Département';
+$_['entry_default']      = 'Adresse par défaut';
 
 // Error
-$_['error_delete']       = 'Warning: You must have at least one address!';
-$_['error_default']      = 'Warning: You can not delete your default address!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']    = 'Address must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters!';
-$_['error_city']         = 'City must be between 2 and 128 characters!';
-$_['error_country']      = 'Please select a country!';
-$_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';
+$_['error_delete']       = 'Warning: Vous devez renseigner au moins une adresse.';
+$_['error_default']      = 'Warning: Vous ne pouvez pas supprimer l\'adresse par défaut';
+$_['error_firstname']    = 'Prénom doit comprendre entre 1 et 32 caractères.';
+$_['error_lastname']     = 'Nom doit comprendre entre 1 et 32 caractères.';
+$_['error_address_1']    = 'la ligne d\'adresse doit comprendre entre 3 et 128 caractères.';
+$_['error_postcode']     = 'Code postal doit comprendre entre 2 et 10 caractères.';
+$_['error_city']         = 'Ville doit comprendre entre 2 et 128 caractères.';
+$_['error_country']      = 'Veuillez indiquer un pays.';
+$_['error_zone']         = 'Veuillez indiquer une région.';
+$_['error_custom_field'] = '%s doit être renseigné';
